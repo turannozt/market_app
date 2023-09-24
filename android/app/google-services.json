@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390807473016",
+    "project_id": "market-app-ed457",
+    "storage_bucket": "market-app-ed457.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390807473016:android:d05243b8d28a835664168d",
+        "android_client_info": {
+          "package_name": "com.turanozt.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390807473016-0b7dn7umpuqpplse8t6488mg85i0u5ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD05eZhJMsaE_nVsvzAOs-E53cOvis9-SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390807473016-0b7dn7umpuqpplse8t6488mg85i0u5ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
